@@ -1,5 +1,5 @@
 {
-  "name": "lddong-utils",
+  "name": "d-utils",
   "version": "1.0.0",
   "description": "用于字符串填充指定位数 例如：工号、编号等",
   "main": "index.js",
@@ -12,12 +12,9 @@
   },
   "keywords": [
     "pad",
-    "编号",
-    "字符串",
-    "填充"
   ],
   "author": "lddong",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ilitung/utils/issues"
   },
