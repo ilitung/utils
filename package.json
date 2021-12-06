@@ -1,5 +1,5 @@
 {
-  "name": "utils",
+  "name": "lddong-utils",
   "version": "1.0.0",
   "description": "用于字符串填充指定位数 例如：工号、编号等",
   "main": "index.js",
