@@ -1,0 +1,25 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "用于字符串填充指定位数 例如：工号、编号等",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilitung/utils.git"
+  },
+  "keywords": [
+    "pad",
+    "编号",
+    "字符串",
+    "填充"
+  ],
+  "author": "lddong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ilitung/utils/issues"
+  },
+  "homepage": "https://github.com/ilitung/utils#readme"
+}
